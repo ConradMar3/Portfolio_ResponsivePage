@@ -133,11 +133,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #D63447;
+  color: #3b393a5b;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #9e202f;
+    color: #38363773;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -417,7 +417,7 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #4240415b;
   word-break: break-word; }
   a > code {
     color: inherit; }
